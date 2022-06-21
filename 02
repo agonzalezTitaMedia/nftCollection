@@ -1,0 +1,9 @@
+{   
+   "name": "Titamedia 03",
+   "description": "Titamedia firts nft collection",      
+   "image": "https://raw.githubusercontent.com/agonzalezTitaMedia/nftCollection/main/02.jpg",  
+   "attributes": [
+       { "trait_type": "Numero", "value": "03" }
+   ]
+}
+
